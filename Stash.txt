@@ -17,3 +17,5 @@ git stash save "message"
 second time stash
 
 stash added with the message
+
+stash message 
