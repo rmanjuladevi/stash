@@ -1,3 +1,4 @@
+amend will be adde 
 
 
 git stash 
